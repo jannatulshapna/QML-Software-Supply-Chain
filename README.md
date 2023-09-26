@@ -32,16 +32,17 @@ The methodology implemented in this research is a meticulous approach focusing o
    Features were encoded into quantum states, ensuring all categorical values were converted to numerical and normalized, maintaining a uniform scale across all values.
 
 5. **Quantum Neural Network (QNN) Application:**
-   ![Figure 1](./Images1/fig1.png)
+   ![Frmaework](./Images1/fig1.png)
+   
    QNN was then applied, leveraging neurocomputing theory, quantum computing, and artificial neural networks. The data were encoded into suitable qubit states and processed through parameterized rotation and entangling gates. The resulting values were then decoded into applicable output data, with precision and accuracy denoted by {s (n), d(n)}.
 
-6. **Adam Optimizer:**
+7. **Adam Optimizer:**
    The parameters were updated based on specific criteria including size, depth, and accuracy, considering the complexity-theoretic measurements, with the aim to solve in-depth measurement issues efficiently.
 
-7. **Precision & Accuracy:**
+8. **Precision & Accuracy:**
    Precision {s (n), d(n)} was meticulously determined, measuring the number of qubits in the circuit in size and the longest sequence of gates from input to output in depth. The circuits' accuracy was defined by O{s(n)}.
 
-8. **Comparative Analysis:**
+9. **Comparative Analysis:**
    The resultant data from the different portions of the dataset were then analyzed, compared, and discussed to provide insights into the performance of QML and ML in different conditions.
 
 
