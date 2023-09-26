@@ -49,7 +49,7 @@ The methodology implemented in this research is a meticulous approach focusing o
 
    Results:
 
-   ![](./Images1/fig3 .png)
+   ![](./Images1/fig.png)
 
    ![](./Images1/fig4.png)
 
