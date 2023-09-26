@@ -32,7 +32,7 @@ The methodology implemented in this research is a meticulous approach focusing o
    Features were encoded into quantum states, ensuring all categorical values were converted to numerical and normalized, maintaining a uniform scale across all values.
 
 5. **Quantum Neural Network (QNN) Application:**
-   ![Framework](./images1/fig1.png)
+   ![Framework](.Images1/fig1.png)
    QNN was then applied, leveraging neurocomputing theory, quantum computing, and artificial neural networks. The data were encoded into suitable qubit states and processed through parameterized rotation and entangling gates. The resulting values were then decoded into applicable output data, with precision and accuracy denoted by {s (n), d(n)}.
 
 6. **Adam Optimizer:**
