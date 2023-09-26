@@ -56,6 +56,41 @@ The methodology implemented in this research is a meticulous approach focusing o
    ![](./Images1/fig5.png)
 
 
+**Paper title**
+Software Supply Chain Vulnerabilities Detection in Source Code: Performance Comparison between  Traditional and Quantum Machine Learning Algorithms
+
+**Paper Link**
+https://ieeexplore.ieee.org/abstract/document/10020813
+
+**PDF Copy**
+https://arxiv.org/ftp/arxiv/papers/2306/2306.08060.pdf
+
+**My Google scholar**
+https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=PHg000cAAAAJ
+
+
+  **Cite Work**
+
+  Bibtex:  
+  
+  @inproceedings{akter2022software,
+  title={Software supply chain vulnerabilities detection in source code: Performance comparison between traditional and quantum machine learning algorithms},
+  author={Akter, Mst Shapna and Faruk, Md Jobair Hossain and Anjum, Nafisa and Masum, Mohammad and Shahriar, Hossain and Sakib, Nazmus and Rahman, Akond and Wu, Fan and Cuzzocrea, Alfredo},
+  booktitle={2022 IEEE International Conference on Big Data (Big Data)},
+  pages={5639--5645},
+  year={2022},
+  organization={IEEE}
+}
+
+
+MLA:
+
+Akter, Mst Shapna, et al. "Software supply chain vulnerabilities detection in source code: Performance comparison between traditional and quantum machine learning algorithms." 2022 IEEE International Conference on Big Data (Big Data). IEEE, 2022.
+
+APA:
+
+Akter, M. S., Faruk, M. J. H., Anjum, N., Masum, M., Shahriar, H., Sakib, N., ... & Cuzzocrea, A. (2022, December). Software supply chain vulnerabilities detection in source code: Performance comparison between traditional and quantum machine learning algorithms. In 2022 IEEE International Conference on Big Data (Big Data) (pp. 5639-5645). IEEE.
+
 
 
    
